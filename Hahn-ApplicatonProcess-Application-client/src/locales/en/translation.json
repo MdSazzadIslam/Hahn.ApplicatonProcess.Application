@@ -1,0 +1,16 @@
+{
+  "applicant": {
+    "ID": "ID",
+    "Name": "Name",
+    "FamilyName": "FamilyName",
+    "Address": "Address",
+    "CountryOfOrigin": "CountryOfOrigin",
+    "EMailAdress": "EMailAdress",
+    "Age": "Age",
+    "Hired": "Hired"
+
+
+  },
+  "applicants": "applicants"
+}
+
