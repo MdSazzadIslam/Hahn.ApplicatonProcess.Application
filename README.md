@@ -3,6 +3,9 @@ The project is written in .NET CORE as a backend and Aurelia as a frontend.
 
 Backend
 How to use:
+
+[N.B : Please open visual studio 19 as an administrator and select clone repository and paste the github repo link and select the pathe where do u wanna save the project and then you will be able to run the project]
+
 1.	You will need the latest Visual studio 2019 and the latest .NET Core SDK
 2.	Please check if you have installed the same runtime version (SDK) described in global. json
 3.	The latest SDK and tools can be downloaded from https://dotnet.microsoft.com/download
