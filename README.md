@@ -3,6 +3,7 @@ The project is written in .NET CORE as a backend and Aurelia as a frontend.
 
 Backend
 How to use:
+Please download the project and open API project with visual studio. If any issue happen please follow the bellow steps and client project open with vs code and install npm. 
 
 [N.B : Please open visual studio 19 as an administrator and select clone repository and paste the github repo link and select the pathe where do u wanna save the project and then you will be able to run the project]
 
