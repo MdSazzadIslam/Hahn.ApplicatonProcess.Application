@@ -1,0 +1,15 @@
+{
+  "applicant": {
+    "ID": "Ich würde",
+    "Name": "Name",
+    "FamilyName": "Nachname",
+    "Address": "Adresse",
+    "CountryOfOrigin": "Herkunftsland",
+    "EMailAdress": "E-Mail-Addresse",
+    "Age": "Alter",
+    "Hired": "Gemietet"
+
+
+  },
+  "applicants": "Bewerberinnen"
+}
