@@ -1,0 +1,209 @@
+[
+
+  {
+    "Key": "GetApplicant method fired on {date}",
+    "LocalizedValue": {
+
+      "en-US": "GetApplicant method fired on {date}",
+      "de-DE": "GetApplicant-Methode am {Datum} ausgelöst"
+
+    }
+
+  },
+
+  {
+    "Key": "Error retrieving data from the database on {date}",
+    "LocalizedValue": {
+
+      "en-US": "Error retrieving data from the database on {date}",
+      "de-DE": "Fehler beim Abrufen der Daten aus der Datenbank am {Datum}"
+
+    }
+
+  },
+
+  {
+    "Key": "Error retrieving data from the database",
+    "LocalizedValue": {
+
+      "en-US": "Error retrieving data from the database",
+      "de-DE": "Fehler beim Abrufen der Daten aus der Datenbank"
+
+    }
+
+  },
+
+
+  {
+    "Key": "GetApplicantById method fired on {date}",
+    "LocalizedValue": {
+
+      "en-US": "GetApplicantById method fired on {date}",
+      "de-DE": "GetApplicantById-Methode am {Datum} ausgelöst"
+
+    }
+
+  },
+
+  {
+    "Key": "Error retrieving data from the database on {date} and {Id} NOT FOUND",
+    "LocalizedValue": {
+
+      "en-US": "Error retrieving data from the database on {date} and {Id} NOT FOUND",
+      "de-DE": "Fehler beim Abrufen der Daten aus der Datenbank am {Datum} und ({Id}) NICHT GEFUNDEN"
+
+    }
+
+  },
+
+  {
+    "Key": "Error retrieving data from the database by Id",
+    "LocalizedValue": {
+
+      "en-US": "Error retrieving data from the database by Id",
+      "de-DE": "Fehler beim Abrufen der Daten aus der Datenbank anhand der ID"
+
+    }
+
+  },
+
+
+  {
+    "Key": "CreateApplicant method fired on {date}",
+    "LocalizedValue": {
+
+      "en-US": "CreateApplicant method fired on {date}",
+      "de-DE": "CreateApplicant-Methode, die am {Datum} ausgelöst wurde"
+
+    }
+
+  },
+
+  {
+    "Key": "Error saving data on {date}",
+    "LocalizedValue": {
+
+      "en-US": "Error saving data on {date}",
+      "de-DE": "Fehler beim Speichern der Daten am {Datum}"
+
+    }
+
+  },
+
+  {
+    "Key": "Error saving data",
+    "LocalizedValue": {
+
+      "en-US": "Error saving data",
+      "de-DE": "Fehler beim Speichern der Daten"
+
+    }
+
+  },
+
+  {
+    "Key": "UpdateApplicant method fired on {date}",
+    "LocalizedValue": {
+
+      "en-US": "UpdateApplicant method fired on {date}",
+      "de-DE": "UpdateApplicant-Methode am {Datum} ausgelöst"
+
+    }
+
+  },
+
+  {
+    "Key": "Error updating employee",
+    "LocalizedValue": {
+
+      "en-US": "Error updating data on {date}",
+      "de-DE": "Fehler beim Aktualisieren der Daten am {Datum}"
+
+    }
+
+  },
+
+  {
+    "Key": "Error updating employee",
+    "LocalizedValue": {
+
+      "en-US": "Error updating employee",
+      "de-DE": "Fehler beim Aktualisieren des Mitarbeiters"
+
+    }
+
+  },
+
+  {
+    "Key": "DeleteApplicant method fired on {date}",
+    "LocalizedValue": {
+
+      "en-US": "DeleteApplicant method fired on {date}",
+      "de-DE": "DeleteApplicant-Methode, die am {Datum} ausgelöst wurde"
+
+    }
+
+  },
+
+  {
+    "Key": "Error deleting data on {date}",
+    "LocalizedValue": {
+
+      "en-US": "Error deleting data on {date}",
+      "de-DE": "Fehler beim Löschen der Daten am {Datum}"
+
+    }
+
+  },
+
+
+  {
+    "Key": "Error deleting data",
+    "LocalizedValue": {
+
+      "en-US": "Error deleting data",
+      "de-DE": "Fehler beim Löschen der Daten"
+
+    }
+
+  },
+
+  {
+    "Key": "CheckValidCountry method fired on {date}",
+    "LocalizedValue": {
+
+      "en-US": "CheckValidCountry method fired on {date}",
+      "de-DE": "Die CheckValidCountry-Methode wurde am {Datum} ausgelöst."
+
+    }
+
+  },
+
+
+  {
+    "Key": "GetCountry method fired on {date}",
+    "LocalizedValue": {
+
+      "en-US": "GetCountry method fired on {date}",
+      "de-DE": "GetCountry-Methode am {Datum} ausgelöst"
+
+    }
+
+  },
+
+  {
+    "Key": "CountryOfOrigin – must be a valid Country {CountryOfOrigin} on {date}",
+    "LocalizedValue": {
+
+      "en-US": "CountryOfOrigin – must be a valid Country {CountryOfOrigin} on {date}",
+      "de-DE": "CountryOfOrigin - muss am {Datum} ein gültiges Land {CountryOfOrigin} sein"
+
+    }
+
+  }
+
+
+
+
+  
+]
