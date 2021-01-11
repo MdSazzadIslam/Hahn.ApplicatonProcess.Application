@@ -64,5 +64,6 @@ Functionality Overview
 3.	After successful validation send button will enable and you can submit all the data.
 4.	If response from API is 201 then system will automatically navigate to list view where you will see your input information. The data shown in the list view are descending order so that you can see you last input in first row.
 5.	In list view there are add button, you can click add button for data input purpose and there are two more buttons available in a table (Edit and Delete). If you want to update the information click edit button or for deleting purpose click delete button.
+6. If you want to search record please go to list view and please type id and then press enter system will automatically display your desire record into the table.
 
 
